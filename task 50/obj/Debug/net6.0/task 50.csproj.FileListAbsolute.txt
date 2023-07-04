@@ -1,0 +1,15 @@
+/Users/a04/Documents/РАЗВИТИЕ/ОБУЧЕНИЕ/5. Знакомство с языками програмирования/Урок 7. Двумерные массивы. Семинар 7/Sem7HW/task 50/bin/Debug/net6.0/task 50
+/Users/a04/Documents/РАЗВИТИЕ/ОБУЧЕНИЕ/5. Знакомство с языками програмирования/Урок 7. Двумерные массивы. Семинар 7/Sem7HW/task 50/bin/Debug/net6.0/task 50.deps.json
+/Users/a04/Documents/РАЗВИТИЕ/ОБУЧЕНИЕ/5. Знакомство с языками програмирования/Урок 7. Двумерные массивы. Семинар 7/Sem7HW/task 50/bin/Debug/net6.0/task 50.runtimeconfig.json
+/Users/a04/Documents/РАЗВИТИЕ/ОБУЧЕНИЕ/5. Знакомство с языками програмирования/Урок 7. Двумерные массивы. Семинар 7/Sem7HW/task 50/bin/Debug/net6.0/task 50.dll
+/Users/a04/Documents/РАЗВИТИЕ/ОБУЧЕНИЕ/5. Знакомство с языками програмирования/Урок 7. Двумерные массивы. Семинар 7/Sem7HW/task 50/bin/Debug/net6.0/task 50.pdb
+/Users/a04/Documents/РАЗВИТИЕ/ОБУЧЕНИЕ/5. Знакомство с языками програмирования/Урок 7. Двумерные массивы. Семинар 7/Sem7HW/task 50/obj/Debug/net6.0/task 50.csproj.AssemblyReference.cache
+/Users/a04/Documents/РАЗВИТИЕ/ОБУЧЕНИЕ/5. Знакомство с языками програмирования/Урок 7. Двумерные массивы. Семинар 7/Sem7HW/task 50/obj/Debug/net6.0/task 50.GeneratedMSBuildEditorConfig.editorconfig
+/Users/a04/Documents/РАЗВИТИЕ/ОБУЧЕНИЕ/5. Знакомство с языками програмирования/Урок 7. Двумерные массивы. Семинар 7/Sem7HW/task 50/obj/Debug/net6.0/task 50.AssemblyInfoInputs.cache
+/Users/a04/Documents/РАЗВИТИЕ/ОБУЧЕНИЕ/5. Знакомство с языками програмирования/Урок 7. Двумерные массивы. Семинар 7/Sem7HW/task 50/obj/Debug/net6.0/task 50.AssemblyInfo.cs
+/Users/a04/Documents/РАЗВИТИЕ/ОБУЧЕНИЕ/5. Знакомство с языками програмирования/Урок 7. Двумерные массивы. Семинар 7/Sem7HW/task 50/obj/Debug/net6.0/task 50.csproj.CoreCompileInputs.cache
+/Users/a04/Documents/РАЗВИТИЕ/ОБУЧЕНИЕ/5. Знакомство с языками програмирования/Урок 7. Двумерные массивы. Семинар 7/Sem7HW/task 50/obj/Debug/net6.0/task 50.dll
+/Users/a04/Documents/РАЗВИТИЕ/ОБУЧЕНИЕ/5. Знакомство с языками програмирования/Урок 7. Двумерные массивы. Семинар 7/Sem7HW/task 50/obj/Debug/net6.0/refint/task 50.dll
+/Users/a04/Documents/РАЗВИТИЕ/ОБУЧЕНИЕ/5. Знакомство с языками програмирования/Урок 7. Двумерные массивы. Семинар 7/Sem7HW/task 50/obj/Debug/net6.0/task 50.pdb
+/Users/a04/Documents/РАЗВИТИЕ/ОБУЧЕНИЕ/5. Знакомство с языками програмирования/Урок 7. Двумерные массивы. Семинар 7/Sem7HW/task 50/obj/Debug/net6.0/task 50.genruntimeconfig.cache
+/Users/a04/Documents/РАЗВИТИЕ/ОБУЧЕНИЕ/5. Знакомство с языками програмирования/Урок 7. Двумерные массивы. Семинар 7/Sem7HW/task 50/obj/Debug/net6.0/ref/task 50.dll
